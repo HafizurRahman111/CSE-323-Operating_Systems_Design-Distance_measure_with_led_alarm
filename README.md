@@ -24,3 +24,7 @@ signal with no alarm.
 5. LED ( Red , Green , White )
 6. Resistor ( 330 Ohm )
 7. Jumper Wires ( Male to Male )
+
+
+
+![Equipments List](https://user-images.githubusercontent.com/48995708/72976462-d9011080-3dfc-11ea-9f8f-cb908781f5b1.png)
