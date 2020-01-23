@@ -107,4 +107,21 @@ Now setup is complete. Next need to upload the code into the Arduino Uno.
 ![Big Circuit - Copy](https://user-images.githubusercontent.com/48995708/72977074-ecf94200-3dfd-11ea-91a7-9bbeb5140f72.jpg)
 
 
+## How it works :
 
+After burning the code and supplying the power to the Arduino Uno board our project works.
+When we place an object to the device between 0 to 10 c.m then the Red light turns on with a
+buzzer alarm. After that if we move the object and place it between 10 to 20 c.m then the green
+light turns on with a different buzzer alarm. Next when the distance will be 20 to 40 c.m. the white
+light turns on with a buzzer alarm. Finally if that object’s distance is more than 40 c.m or less than
+0 c.m then no led is on and there will be no alarm in buzzer. Serial monitor of our Arduino Software
+then shows “ Out of Range “.On the other cases different LED’s will be on with different alarm
+tone .Distance will be also displayed on the serial monitor. That’s all about this project.
+We can use this to calculate the water level in our home or at the time of flood. Also it will be
+used to detect any harmful object with a safe distance as there is an alarming system and LED
+signal in this project.
+
+
+
+
+                                    ********************** The End ***********************
