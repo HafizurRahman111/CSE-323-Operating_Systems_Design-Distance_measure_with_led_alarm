@@ -11,3 +11,13 @@ signals with different alarm tones for different distances .Three different LED 
 works here. Finally when the object isn’t near to the device and not in the range what was declared
 in our code then serial monitor show that object is Out of Range and there will be no LED light
 signal with no alarm.
+
+
+## Equipment List :
+1. Arduino UNO
+2. Ultrasonic Sensor (HC-SR04 )
+3. Breadboard
+4. Buzzer
+5. LED ( Red , Green , White )
+6. Resistor ( 330 Ohm )
+7. Jumper Wires ( Male to Male )
