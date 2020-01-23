@@ -103,3 +103,8 @@ The LED short leg (-) connect to the breadboards Gnd part (-) with resistors and
 Now setup is complete. Next need to upload the code into the Arduino Uno.
 
 
+
+![Big Circuit - Copy](https://user-images.githubusercontent.com/48995708/72977074-ecf94200-3dfd-11ea-91a7-9bbeb5140f72.jpg)
+
+
+
