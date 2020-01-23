@@ -2,6 +2,9 @@
 It's a simple Arduino Based Project of CSE-323 (Operating Systems Design) course what is able to calculate the distance of an object and also make an alarm with led.
 
 
+
+![CSE-323 SMU1](https://user-images.githubusercontent.com/48995708/72976230-6728c700-3dfc-11ea-8e52-83a2b3c5acaa.jpg)
+
 ## Introduction :
 In this project we works with Arduino. Here we build a device what is able to calculate a distance
 of an object with LED and alarm. When an object is near to the device it gives us a LED signal
