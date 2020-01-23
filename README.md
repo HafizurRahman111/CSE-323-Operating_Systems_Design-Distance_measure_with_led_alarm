@@ -59,5 +59,21 @@ Distance = ( Time x Speed of Sound ) / 2
 ![Figure Sensor](https://user-images.githubusercontent.com/48995708/72976729-54fb5880-3dfd-11ea-9e5b-3094967fb163.png)
 
 
+Buzzer : A buzzer or beeper is an audio signalling device which may be mechanical,
+electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include
+alarm devices, timers, and confirmation of user input such as a mouse click or keystroke. Here
+we use a buzzer for this project.
+
+LED : A light-emitting diode (LED) is a two-lead semiconductor light source. It is a p–n
+junction diode that emits light when activated. When a suitable current is applied to the leads,
+electrons are able to recombine with electron holes within the device, releasing energy in the
+form of photons. We also some LED here.
+
+Resistor : Resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias
+active elements, and terminate transmission lines, among other uses. For this project we use
+some resistors for our LED’s and Buzzer because LED’s and buzzer don’t need high voltage .If
+we provide more voltage those equipment will be destroyed .So we use Resistors to control the
+voltage.
+
 
 
