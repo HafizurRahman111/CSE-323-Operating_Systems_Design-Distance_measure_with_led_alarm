@@ -77,3 +77,29 @@ voltage.
 
 
 
+## Setup :
+
+1. Setup the Breadboard : At first take the 5 volt (Vcc) and ground (Gnd) from Arduino
+using wires then connect to the breadboard. So there will be two connection (Vcc and
+Gnd ) created in to the breadboard.
+
+2. HC-SR04 Sensor : Attach the HC-SR04 sensor to the Breadboard .
+- The Sensor VCC connect to the breadboards Vcc part (+)
+- The Sensor GND connect to the breadboards Gnd part (-)
+- The Sensor Trig connect to the Arduino Board Digital I/O 9
+- The Sensor Echo connect to the Arduino Board Digital I/O 10
+
+3. Buzzer : The Buzzer attach to the Breadboard. Buzzer’s long leg (+) connect to the
+Arduino Board Digital pin 6. Short leg (-) connect to the breadboards Gnd part (-) with
+one 330 Ohm resistor.
+
+4. LED : Attach LED’s to the Breadboard. Here we use 3 LED ( Green , Red and White ) .
+The LED short leg (-) connect to the breadboards Gnd part (-) with resistors and Long leg
+( + ) connect to the Arduino Board. Use this process for all 3 LED’s.
+- Green LED Long leg (+) connect to the Arduino Board Digital pin 7.
+- Red LED Long leg (+) connect to the Arduino Board Digital pin 8.
+- White LED Long leg (+) connect to the Arduino Board Digital pin 12.
+
+Now setup is complete. Next need to upload the code into the Arduino Uno.
+
+
