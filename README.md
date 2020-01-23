@@ -55,3 +55,9 @@ along with the time difference between sending and receiving the sound pulse to 
 distance to an object. It uses the following mathematical equation:
 Distance = ( Time x Speed of Sound ) / 2
 
+
+![Figure Sensor](https://user-images.githubusercontent.com/48995708/72976729-54fb5880-3dfd-11ea-9e5b-3094967fb163.png)
+
+
+
+
